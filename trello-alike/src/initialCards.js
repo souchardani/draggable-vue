@@ -12,4 +12,5 @@ export default {
     { id: 6, title: "Card 6", description: "Card 6 description" },
     { id: 7, title: "Card 7", description: "Card 7 description" },
   ],
+  fechados: [],
 };
